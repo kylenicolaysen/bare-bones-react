@@ -1,0 +1,1 @@
+Bare minimum React 18 boilerplate with no backend.
